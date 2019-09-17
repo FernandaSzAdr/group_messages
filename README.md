@@ -19,6 +19,6 @@ Now you have all the necessary dependencies in this project.
 
 If you want run this project in the terminal, execute:
   
-  `jupyter nbconvert --execute group/group_messages.ipynb`
+  `$ jupyter nbconvert --execute group/group_messages.ipynb`
 
 The algorithm result will be in the folder `/group/output/` 
